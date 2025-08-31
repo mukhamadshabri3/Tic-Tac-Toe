@@ -14,7 +14,3 @@ Proyek ini mengikuti aturan mini game:
 - Pemain yang berhasil membuat 3 simbol berurutan (horizontal, vertikal, atau diagonal) akan menang.  
 - Jika papan penuh dan tidak ada pemenang → hasilnya **Draw**.  
 - Tombol **Restart** tersedia untuk memulai permainan baru.  
-
----
-
-## 📂 Struktur Project
